@@ -9,7 +9,7 @@ A simple Attribute based saving System.
 1. Go to the Package Manager (Under **Window/Package Manager**). 
 2. Click on the little + icon.
 3. Click on button that says "Add Package from git URL".
-4. Put in `https://github.com/Common-Games/utilities.cgtk.cgplayerprefs.git`.
+4. Put in `https://github.com/Common-Games/Utilities.CGTK.CGPlayerPrefs.git`.
 5. Click on [Add] and you're done! ;-)
 
 ## Explanation
