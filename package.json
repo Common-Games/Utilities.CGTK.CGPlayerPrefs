@@ -1,0 +1,19 @@
+{
+  "name": "com.commongames.utilities.cgtk.cgplayerprefs",
+  "version": "1.0.0",
+  "displayName": "Utilites/CGTK/CGPlayerPrefs",
+  "unity": "2019.4",
+  "keywords": [
+    "utilities",
+    "unity",
+    "cgtk",
+    "common-games"
+  ],
+  "author": {
+    "name": "Common Games",
+    "email": "walter-haynes@outlook.com"
+  },
+  "description": "CGPlayerPrefs - A simple but handy saving system for small projects.",
+  "type": "library",
+  "hideInEditor": false
+}
