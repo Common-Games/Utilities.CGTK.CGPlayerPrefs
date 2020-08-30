@@ -234,12 +234,12 @@ namespace CommonGames.Utilities.CGTK.CGPlayerPrefs
             {
                 if(Property != null)
                 {
-                    Property.SetValue(obj: OwnerInstanceObject, value);
+                    Property.SetValue(obj: OwnerInstanceObject, value as Property.PropertyType);
                 }
                 
                 if(Field != null)
                 {
-                    Field.SetValue(obj: OwnerInstanceObject, value);
+                    Field.SetValue(obj: OwnerInstanceObject, value as Field.FieldType);
                 }
             }
         }
