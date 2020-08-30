@@ -13,8 +13,6 @@ using Sirenix.Serialization;
 
 using Newtonsoft.Json;
 
-//using CommonGames.Utilities.
-
 namespace CommonGames.Utilities.CGTK.CGPlayerPrefs
 {
     using Utils;
@@ -128,7 +126,7 @@ namespace CommonGames.Utilities.CGTK.CGPlayerPrefs
                     OwnerInstanceScene = owner.gameObject.scene.name
                 };
                 
-                _saveables.Add(item: __saveable);
+                Saveables.Add(item: __saveable);
             }
             
             FieldInfo[] __fields = __type.GetFields();
